@@ -71,3 +71,7 @@ mkdir -p build && cd build && cmake .. && cmake --build . -j && ./hello_triangle
 Resultado de ejecutar `./hello_triangle`:
 
 ![Salida del programa](images/triangle.png)
+
+## Nota sobre IA
+
+Este material fue ensamblado con asistencia de IA para servir de referencia al creador en el desarrollo de programas futuros no asistidos. En futuros programas también se consultarán fuentes estándar, por ejemplo: Shreiner, D., Sellers, G., Kessenich, J., & Licea-Kane, B. (2013). *OpenGL Programming Guide* (8th ed.). Pearson Education, Inc.
