@@ -65,3 +65,9 @@ mkdir -p build && cd build && cmake .. && cmake --build . -j && ./hello_triangle
 - CMake no encuentra GLFW/GLEW: agrega -DCMAKE_PREFIX_PATH=/opt/homebrew en macOS o instala paquetes -dev en Linux.
 - Error de version GLSL: usa 410 en macOS y 330 en Linux/Windows.
 - Pantalla negra: asegura VAO enlazado antes de dibujar y revisa stride/offsets.
+
+## Ejecución
+
+Resultado de ejecutar `./hello_triangle`:
+
+![Salida del programa](images/triangle.png)
