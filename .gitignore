@@ -1,0 +1,17 @@
+# Build artifacts
+/build/
+/out/
+/dist/
+/cmake-build-*/
+
+# macOS
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+compile_commands.json
+CTestTestfile.cmake
+install_manifest.txt
