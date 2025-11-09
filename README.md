@@ -1,6 +1,6 @@
 # OpenGL Base (GLFW + GLEW) — Dos triángulos
 
-<<<<<<< HEAD
+
 Proyecto mínimo:
 - macOS: usa `OpenGL/gl3.h` nativo (sin GLAD) y silencia deprecations.
 - Linux/Windows: CMake trae GLAD automáticamente.
@@ -8,7 +8,7 @@ Proyecto mínimo:
 
 ## Build 
 =======
-Este proyecto es el esqueleto mínimo y sano para cualquier aplicación con OpenGL moderno en macOS/Linux/Windows. Dibuja dos triángulos, pero lo importante no es el dibujo, sino **la estructura**: ventana, contexto de OpenGL, carga de funciones, datos en la GPU, shaders, formato de vértices, y el bucle de dibujo.
+Este proyecto es el esqueleto mínimo  para cualquier aplicación con OpenGL moderno en macOS/Linux/Windows. Dibuja dos triángulos, pero lo importante no es el dibujo, sino **la estructura**: ventana, contexto de OpenGL, carga de funciones, datos en la GPU, shaders, formato de vértices, y el bucle de dibujo.
 
 ---
 
