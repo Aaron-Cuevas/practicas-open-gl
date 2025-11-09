@@ -1,11 +1,11 @@
 # OpenGL Quickstart (GLFW + macOS nativo / GLAD en otros)
 
-Proyecto mínimo, rápido y sin drama:
+Proyecto mínimo:
 - macOS: usa `OpenGL/gl3.h` nativo (sin GLAD) y silencia deprecations.
 - Linux/Windows: CMake trae GLAD automáticamente.
 - GLFW se obtiene con `FetchContent`.
 
-## Build rápido
+## Build 
 
 ```bash
 # Requisitos mínimos
